@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Open DSH Mobile launcher",
+    "description": "Starts the LAN Metro service for iOS Expo Go with DeepSeek Harness and stops its process tree when DSH exits normally. It does not run Android builds."
+  }
+}

@@ -1,0 +1,5 @@
+- insert:
+    - id: open-dsh-mobile-metro
+      name: '@local/open-dsh-mobile-metro'
+      config:
+        port: 8081

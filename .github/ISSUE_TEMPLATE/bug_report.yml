@@ -1,0 +1,23 @@
+name: 问题反馈
+description: 报告 Open DSH Mobile 的问题
+title: "[Bug] "
+body:
+  - type: textarea
+    attributes:
+      label: 问题描述
+      description: 发生了什么？你原本期望什么？
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: 复现步骤
+    validations:
+      required: true
+  - type: input
+    attributes:
+      label: 环境
+      placeholder: Android/iOS、App 版本、DSH 与 dsh-mobile-plugin 版本
+  - type: textarea
+    attributes:
+      label: 日志或截图
+      description: 请先移除配对文本、设备凭据和私人会话内容。

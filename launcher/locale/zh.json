@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Open DSH Mobile 自动启动",
+    "description": "随 DeepSeek Harness 启动 iOS Expo Go 所需的局域网 Metro 服务，并在 DSH 正常退出时关闭整个 Metro 进程树。仅管理 Open DSH Mobile，不涉及安卓构建。"
+  }
+}
